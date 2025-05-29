@@ -1,0 +1,58 @@
+# 💼 Salary Survey Excel Dashboard
+
+This repository contains an interactive Excel dashboard built from a salary survey dataset. The dashboard provides visual insights into salary distributions across various factors such as job title, experience level, education, location, and employment type.
+
+---
+
+## 📊 Dashboard Features
+
+- **Average Salary by Job Title**
+- **Salary Trends by Experience Level**
+- **Salary Comparison by Education Level**
+- **Top-Paying Countries**
+- **Filters/Slicers** for dynamic interaction:
+  - Year
+  - Country
+  - Job Title
+  - Experience Level
+
+---
+
+## 🧰 Tools Used
+
+- Microsoft Excel
+  - Power Query (for data cleaning and transformation)
+  - Pivot Tables and Charts
+  - Slicers and Conditional Formatting
+
+---
+
+## 📁 File
+
+- `Salary_Survey_Dashboard.xlsx` – Main Excel file containing the dashboard.
+
+---
+
+## 📈 Data Source
+
+The data was sourced from a salary survey (e.g., Kaggle, Stack Overflow, or a custom source). It includes anonymized salary records with attributes like job title, location, and experience.
+
+---
+
+## 🚀 How to Use
+
+1. Download or clone this repository.
+2. Open `Salary_Survey_Dashboard.xlsx` in Microsoft Excel (preferably 2016 or later).
+3. Use the slicers to interact with the dashboard and filter insights.
+
+---
+
+## 📬 Feedback & Contribution
+
+If you have suggestions or want to contribute improvements, feel free to open an issue or submit a pull request.
+
+---
+
+## 📜 License
+
+This project is open-source and available under the [MIT License](LICENSE).
